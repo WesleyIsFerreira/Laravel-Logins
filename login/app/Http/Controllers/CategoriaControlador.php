@@ -13,7 +13,7 @@ class CategoriaControlador extends Controller
             dd($user);
             echo $user;
         }else{
-            echo "Estou apaixonado loucamente";
+            echo "Estou apaixonado loucamente ";
             echo "por uma lambisgoia que só tem dois dente";
         }
 
